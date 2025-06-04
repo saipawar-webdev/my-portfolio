@@ -1,0 +1,8 @@
+{
+  "extends": "next",
+  "rules": {
+    "react/no-unescaped-entities": "off"
+  }
+}
+// This ESLint configuration extends the Next.js recommended rules
+// and disables the rule that prevents unescaped entities in JSX.
